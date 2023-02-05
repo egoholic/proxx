@@ -10,7 +10,7 @@ How tests could be implemented?
 
 # How to run it?
 
-/bin/prox is a compiled
+Use ./bin/prox, or:
 
 ```
 % go run ./main.go        
